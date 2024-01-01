@@ -1,0 +1,1 @@
+export { default as HeroImage } from './traveller.png'
